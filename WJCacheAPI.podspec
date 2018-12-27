@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = "WJCacheAPI"
-    s.version          = '1.0'
+    s.version          = '1.0.1'
     s.summary          = "缓存API."
 
     s.description      = <<-DESC
