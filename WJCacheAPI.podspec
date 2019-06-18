@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = "WJCacheAPI"
-    s.version          = '1.0.1'
+    s.version          = '1.0.2'
     s.summary          = "缓存API."
 
     s.description      = <<-DESC
@@ -24,7 +24,6 @@ Pod::Spec.new do |s|
 
     s.source_files = 'Classes/*'
 
-    s.dependency 'WJCommon/Core'
     s.dependency 'WJLoggingAPI'
     s.dependency 'WJConfig'
 
